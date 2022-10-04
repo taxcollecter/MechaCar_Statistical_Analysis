@@ -3,7 +3,6 @@
 
 ## Linear Regression to Predict MPG
 ![MPG Analysis](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/72bacb7f5d1c2fd8140ad587b97e28879dcbd969/Resources/Deliverable1.png)
-
 -- Reviewing the output of the linear regression and the variables provided, we can see that Spoiler angle, AWD, and Vehicle Weight all provide a "non-random" amount of variance to the mpg values in the dataset.
 
 -- Based upon our p-value, the slope of our linear model is not zero. The value is much smaller than our assumed significance level of 0.05% 
