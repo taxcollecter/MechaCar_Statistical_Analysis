@@ -18,3 +18,9 @@
 --Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually?
 No, the current manufacturing lots exceed the 100 PSI threshold in total and Lot 3 exceeds the threshold individually. 
 
+## T-Tests on Suspension Coils
+![Lot1 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/30482ecf3870b2e812732748054145e5187228ad/Resources/Deliverable2Summary.png)
+
+![Lot2 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/e49cd2d85f888e88d1ea2c91ee54e08b1b2cad6a/Resources/Deliverable2Lot.png)
+
+![Lot3 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/e49cd2d85f888e88d1ea2c91ee54e08b1b2cad6a/Resources/Deliverable2Lot.png)
