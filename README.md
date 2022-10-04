@@ -26,3 +26,6 @@ No, the current manufacturing lots exceed the 100 PSI threshold in total and Lot
 ![Lot3 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/7d33fc78fc07f0ef590ca1a69861a0c3f311d9ac/Resources/TestTestLot3.png)
 
 In reviewing the output of the test by Lot, we can reject Lot 1 and Lot 2 per our hypothesis as their p-values are less than the .05 significance threshold. Lot 3 is not rejected as it exceeds the .05 threshold. 
+
+## Study Design: MechaCar vs Competition
+In our next review/study we'll review the Fuel perfomance, via MPG, of the MechaCar vs the Competition. In this study we'll leverage a Two-Sample t-Test to compare the MPG of two comprable cars with similar Weight, Height, Make and Structure. We'll review multiple instances of each car to determine if the mean of the MPG statistically differ and settle on which car is performing better. We assume the MechaCar will perform better due to the effiencies that have been implemented recently. We'll use Gas and gas consumed around a standard track to confirm our findings. 
