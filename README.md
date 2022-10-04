@@ -11,7 +11,7 @@
 --While the model helps identify how the variables impact mpg, I do not believe it predicts mpg effectively. I believe there are other factors that will need to considered before we can confidently assess (Engine specs, fuel grade, etc.)
 
 ## Summary Statistics on Suspension Coils
-![PSI Summary](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/e49cd2d85f888e88d1ea2c91ee54e08b1b2cad6a/Resources/Deliverable2Summary.png)
+![PSI Summary](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/30482ecf3870b2e812732748054145e5187228ad/Resources/Deliverable2Summary.png)
 
 ![PSI by Lot](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/e49cd2d85f888e88d1ea2c91ee54e08b1b2cad6a/Resources/Deliverable2Lot.png)
 
