@@ -24,3 +24,5 @@ No, the current manufacturing lots exceed the 100 PSI threshold in total and Lot
 ![Lot2 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/7d33fc78fc07f0ef590ca1a69861a0c3f311d9ac/Resources/TestTestLot2.png)
 
 ![Lot3 T-Test](https://github.com/taxcollecter/MechaCar_Statistical_Analysis/blob/7d33fc78fc07f0ef590ca1a69861a0c3f311d9ac/Resources/TestTestLot3.png)
+
+In reviewing the output of the test by Lot, we can reject Lot 1 and Lot 2 per our hypothesis as their p-values are less than the .05 significance threshold. Lot 3 is not rejected as it exceeds the .05 threshold. 
